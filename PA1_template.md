@@ -3,7 +3,7 @@ output:
   html_document: 
     keep_md: yes
 editor_options: 
-  chunk_output_type: inline
+  chunk_output_type: console
 ---
 ### Reproducible Research Course Project: Personal Activity Monitoring Device Data
 
